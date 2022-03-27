@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CabiAssignment</string>
+    <string name="NETWORK_ERROR">Seems your internet is not working properly.</string>
+</resources>
